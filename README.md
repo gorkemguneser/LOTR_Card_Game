@@ -18,3 +18,5 @@ Game lasts 7 rounds. At the end of the seven round, player with more healths win
 
 Before rounds end, if any player's health reduces the zero or below, that player lost.
 
+# ENJOY THE GAME!
+##### Gorkem Guneser
