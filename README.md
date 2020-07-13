@@ -28,14 +28,13 @@ Every round, players place a card onto the field respectively.
 
 End of each round, power difference between the cards will be deducted from defeated player's total health.
 
-End of each round, players will pull a new card from their deck.
+Beginning of each round, players will pull a new card from their deck.
 
-Game lasts 7 rounds. At the end of the seven round, player with more healths wins the game.
+Game lasts 7 rounds. At the end of the seven rounds, player with more healths wins the game.
 
 Before rounds end, if any player's health reduces the zero or below, that player lost.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
 1) I have created a Kanban Board on Trello to plan my schedule.
 2) Before starting to code, I have written a pseudocode by using google docs to visualize each step about the game.
 3) Afterwards, I have started to code the game on my local repository.
@@ -53,8 +52,6 @@ This repository includes;
 
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-
 [Repository](https://github.com/gorkemguneser/LOTR_Card_Game)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/b/PZ0vHoHg/game-project-gorkem)  
