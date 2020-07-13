@@ -1,5 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
+
 # Lord of the Rings Card Game
 *Gorkem Guneser*
 
@@ -57,6 +58,7 @@ Include links to your repository, slides and kanban board. Feel free to include 
 [Repository](https://github.com/gorkemguneser/LOTR_Card_Game)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/b/PZ0vHoHg/game-project-gorkem)  
+
 
 
 # ENJOY THE GAME!
