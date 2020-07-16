@@ -55,6 +55,7 @@ This repository includes;
 [Repository](https://github.com/gorkemguneser/LOTR_Card_Game)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/b/PZ0vHoHg/game-project-gorkem)
+
 [Pseudocode](https://docs.google.com/document/d/1lvstpsYnIomw5Sn-yaf-kGwAH5nThPCLZo_9cipX1yA/edit)
 
 
