@@ -49,6 +49,7 @@ This repository includes;
 1) LOTR_Card_Game.ipynb
 2) .gitignore 
 3) README.md
+4) .py file to run via terminal
 
 
 ## Links
